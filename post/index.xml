@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Patrick Prioletti</title>
+    <link>https://pjsandwich.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Patrick Prioletti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://pjsandwich.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two-way distributed grids</title>
+      <link>https://pjsandwich.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pjsandwich.github.io/portfolio/post/chapter-1/</guid>
+      <description>Project Background This project is a look into the behavior of distributed grids which there are both aggregators, producers and consumers. Today, the grid is primarily uni-directional - meaning the electricity is produced by producers, and consumed by consumers. If managed properly, enabling production by grid nodes which are historically consumers could lead to more accessible, resilient and efficient electrical grid system.
+For this analysis, a Monte Carlo simulation is run with the following rules:</description>
+    </item>
+    
+    <item>
+      <title>DeepSolar</title>
+      <link>https://pjsandwich.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Sun, 12 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://pjsandwich.github.io/portfolio/post/chapter-2/</guid>
+      <description>Project Background With climate change remaining a prevalent concern amongst many Americans for the foreseeable future, there has been some debate about how to approach the issue. Some consider the failure to act now a proverbial nail in the coffin, while others are optimistic that the rate of technological change will eventually help sort out this problem. William Nordhaus, who has been referred to as the leading mind in the economics of climate change, addresses the issue as a matter of careful cost-benefit consideration.</description>
+    </item>
+    
+  </channel>
+</rss>
