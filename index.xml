@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Feb 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://pjsandwich.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Used car classification and regression</title>
+      <link>https://pjsandwich.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Sun, 06 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://pjsandwich.github.io/portfolio/post/chapter-3/</guid>
+      <description>Project Background This project is a group effort collaboration for Syracuse University&amp;rsquo;s IST-718 - Big Data Analytics. The project, using pyspark explores a large dataset of car sales data. The motivation behind exploring this dataset stems from the COVID-19 pandemic; specifically in response to the emerging news of car payment re-structuring from many different dealerships. The economic impact of the pandemic must&amp;rsquo;ve negatively impacted the volume of sales for the automotive retail market as well as peoples ability to finance a car purchase.</description>
+    </item>
+    
+    <item>
+      <title>Gaming, streaming and game interest</title>
+      <link>https://pjsandwich.github.io/portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 30 Nov 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://pjsandwich.github.io/portfolio/post/chapter-4/</guid>
+      <description>Project Background This project is a group effort collaboration for Syracuse University&amp;rsquo;s Marketing Analytics coursework. The project explores multiple data sources and data collection methods to attempt to organize streaming and gaming popularity data to be analyzed to observe the relationships between game success, game interest and game streaming metrics.
+Overview The gaming community is unique in behavior, but is more unique in the potential to record, predict and model varying behavioral patterns within the community.</description>
+    </item>
+    
+    <item>
       <title>Two-way distributed grids</title>
       <link>https://pjsandwich.github.io/portfolio/post/chapter-1/</link>
       <pubDate>Fri, 01 May 2020 10:58:08 -0400</pubDate>
